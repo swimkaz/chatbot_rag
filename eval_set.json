@@ -1,0 +1,5 @@
+[
+  {"question": "How many hours should I study each day?", "expected_source": "study_habits.md"},
+  {"question": "What is the plan for the weather dashboard project?", "expected_source": "project_ideas.md"},
+  {"question": "Which break technique helps me focus?", "expected_source": "study_habits.md"}
+]
